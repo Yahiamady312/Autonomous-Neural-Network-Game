@@ -90,26 +90,3 @@ Autonomous Neural Network Game/
    ```bash
    python "Neural network.py"
    ```
-
----
-
-## 🧠 Learning Outcome
-
-This project demonstrates:
-- Collecting real-time sensor data from gameplay.  
-- Pre-processing and normalising numeric datasets.  
-- Designing and training a neural network to mimic human decisions.  
-- Applying AI control to interactive systems.
-
----
-
-## 🧰 Requirements
-- Python 3.9 +
-- Pygame (for the game)
-- NumPy, Pandas, TensorFlow / PyTorch (for NN)
-
----
-
-## 👨‍💻 Author
-**Yahia Mady**  
-University of Essex – CE889 Neural Networks and Deep Learning  
