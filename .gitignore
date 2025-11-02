@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.env/
+Game/venv/
+
+# OS
+.DS_Store
+
+# Pygame / temp
+*.log
